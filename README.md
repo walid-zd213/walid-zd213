@@ -2,18 +2,27 @@
   ⚡ Special README — walid-zd213/walid-zd213
   Maintained by Mavis (Lead Repository Architect) for Walid.
   Custom widgets: readme-typing-svg · github-readme-stats · streak-stats
-  Edit with care: the HTML comment blocks keep the layout intact.
+  Arabic version: README_AR.md — keep both files in sync when editing.
 -->
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Walid+(walid-zd213);Software+Developer+%7C+AI+%26+Telegram+Bots+Automation+Specialist" alt="Hi, I'm Walid (walid-zd213) — Software Developer | AI & Telegram Bots Automation Specialist" />
+  <a href="README_AR.md">
+    <img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20%F0%9F%87%A7%F0%9F%87%BF-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="العربية" />
+  </a>
+
+  <br><br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B%20Hi%2C%20I%27m%20Walid%20%28walid-zd213%29;Software%20Developer%20%7C%20AI%20%26%20Telegram%20Bots%20Automation%20Specialist" alt="Hi, I'm Walid (walid-zd213) — Software Developer | AI & Telegram Bots Automation Specialist" />
 
   <br><br>
 
   <img src="https://img.shields.io/badge/Profile-Readme%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Profile Repository" />
   <img src="https://img.shields.io/badge/Availability-Open%20to%20collaborate-3FB950?style=for-the-badge" alt="Availability" />
-  <img src="https://img.shields.io/badge/Focus-Telegram%20Bots%20%2F%20AI%20Agents%20%2F%20Pine%20Script-8957E5?style=for-the-badge" alt="Focus" />
+  <br>
+  <img src="https://img.shields.io/badge/Telegram%20Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bots" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8957E5?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Tools-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Tools" />
 
 </div>
 
@@ -21,23 +30,29 @@
 
 ## 👋 About Me
 
-> **Walid** — Software Developer building intelligent automation for Telegram, AI, and trading workflows.
+> **Walid** — Software Developer building intelligent automation for Telegram, AI agents, and community open-source tooling.
 
 🚀 Passionate about building intelligent Telegram bots, AI agents, and custom workflow automations.
 
-🛠️ Currently focusing on Python, Node.js, Cloud deployments, and TradingView Pine Script indicators.
+🛠️ Currently focusing on Python, Node.js, self-hosted cloud environments, and open-source tooling.
 
-💡 Exploring multi-agent orchestration and automated personal tools.
+💡 Exploring multi-agent orchestration, automated personal systems, and lightweight open-source forks.
 
 ```mermaid
-graph LR
-    A[Telegram Users] --> B[Telegram Bot API]
-    B --> C[Backend Services]
-    C --> D[AI / LLM Layer]
-    C --> E[Supabase / Postgres]
-    C --> F[TradingView<br/>Pine Script]
-    D --> G[Multi-Agent<br/>Orchestration]
-    G --> B
+graph TD
+    subgraph Public Realm [المستودعات العامة للمجتمع]
+        A[العامة والمطورين] -->|استيراد واستخدام| B(النسخ الخفيفة المبسطة Open-Source)
+    end
+
+    subgraph ZD213 Core Engine [مركز القيادة والأتمتة الخاص]
+        B <-->|تزامن الأكواد والتعديلات| C[مستودع القيادة nzdn-ZD213]
+        C -->|تشغيل تلقائي| D[Oracle Cloud Server]
+        D -->|معالجة الذكاء الاصطناعي| E[AI Agent Layer / Supabase]
+        D -->|إشعارات وأوامر| F[Telegram Bot Interface]
+    end
+
+    style Public Realm fill:#1e1e2e,stroke:#89b4fa,stroke-width:2px,color:#cdd6f4
+    style ZD213 Core Engine fill:#11111b,stroke:#f38ba8,stroke-width:2px,color:#cdd6f4
 ```
 
 ---
@@ -50,7 +65,7 @@ graph LR
 |:---:|:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> | <img src="https://img.shields.io/badge/Telegram%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API"/> | <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/> | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> |
 | <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> | <img src="https://img.shields.io/badge/Railway-FFB000?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/> | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> |
-| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> | <img src="https://img.shields.io/badge/Cloud%20Deploy-0F172A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/> | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> |
+| <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> | <img src="https://img.shields.io/badge/Oracle%20Cloud-EA4335?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/> | <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> |
 
 </div>
 
@@ -88,11 +103,10 @@ graph LR
 
 | Area | Details |
 |:--|:--|
-| 🤖 **Telegram Bots** | Long-running bot services, inline keyboards, session handling, rate-limit aware polling/webhooks |
-| 🧠 **AI Integration** | LLM-powered assistants, RAG over Supabase, prompt pipelines, structured outputs |
-| 🕸️ **Multi-Agent Systems** | Agent orchestration, tool routing, supervisor patterns, shared memory |
-| 📈 **TradingView** | Pine Script v5 indicators, strategy automation, alert → webhook → bot pipelines |
-| 🛠️ **Personal Automation** | Scheduled jobs, scrapers, notification pipelines, self-hosted tooling |
+| 🤖 **Telegram Automation** | Long-running bot services, custom command handlers, rate-limiting & webhooks. |
+| 🧠 **AI & Agents System** | Multi-agent orchestration, RAG pipelines, LLM tools routing. |
+| 📦 **Open Source Optimization** | Mirroring, auditing, and simplifying complex repos (e.g., n8n) into lightweight, public-friendly versions. |
+| ⚙️ **Personal & Cloud Systems** | Self-hosted tools, Docker environments, and Oracle Cloud automated workflows. |
 
 ---
 
@@ -135,7 +149,7 @@ graph LR
 
 ## 💬 Let's Build Something
 
-Open to collaborations around **Telegram automation**, **AI agent systems**, and **trading tooling**.
+Open to collaborations around **Telegram automation**, **AI agent systems**, and **open-source tooling**.
 If something here matches what you're building, open an issue or drop a message — replies are welcome.
 
 ```bash
@@ -147,6 +161,6 @@ git clone https://github.com/walid-zd213/walid-zd213.git
 
 <div align="center">
 
-  <sub>Built with ⚡ by Walid & Mavis — Last updated: <code>2026-10-22</code></sub>
+  <sub>Built with ⚡ by Walid & Mavis — Last updated: <code>2026-10-23</code></sub>
 
 </div>
