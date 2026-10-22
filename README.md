@@ -78,7 +78,7 @@ graph LR
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walid-zd213&theme=tokyo-night&hide_border=true&border_radius=12&area=true&cache_seconds=86400" alt="Walid's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=walid-zd213&theme=tokyo-night&hide_border=true&radius=10&area=true&days=90" alt="Walid's Activity Graph" width="100%" />
 
 </div>
 
