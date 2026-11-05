@@ -114,9 +114,9 @@ flowchart LR
 ## ملف GitHub ومجالات التركيز
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="متابعو GitHub" />
-  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Profile Stars" alt="نجوم مستودع الملف الشخصي" />
-  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&logo=git&logoColor=white&label=Last Update" alt="آخر تحديث" />
+  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&label=Followers" alt="متابعو GitHub" />
+  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&label=Stars" alt="نجوم مستودع الملف الشخصي" />
+  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&label=Last%20Update" alt="آخر تحديث" />
 </div>
 
 <div align="center">

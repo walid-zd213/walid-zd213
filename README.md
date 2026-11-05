@@ -114,9 +114,9 @@ flowchart LR
 ## GitHub Profile & Focus
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Profile Stars" alt="Profile Repository Stars" />
-  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&logo=git&logoColor=white&label=Last Update" alt="Last Update" />
+  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&label=Stars" alt="Profile Repository Stars" />
+  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&label=Last%20Update" alt="Last Update" />
 </div>
 
 <div align="center">
