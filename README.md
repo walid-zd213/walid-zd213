@@ -111,17 +111,27 @@ flowchart LR
 
 ---
 
-## GitHub Profile & Focus
-
 <div align="center">
-  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&label=Stars" alt="Profile Repository Stars" />
-  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&label=Last%20Update" alt="Last Update" />
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Telegram%20Automation-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Automation" />
-  <img src="https://img.shields.io/badge/AI%20Agents-8957E5?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Open%20Source-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
-  <img src="https://img.shields.io/badge/Self--Hosted-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Self-Hosted Systems" />
+<!-- الشارات العلوية للإحصائيات -->
+<p>
+  <a href="https://github.com/walid-zd213">
+    <img src="https://img.shields.io/badge/FOLLOWERS-1-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/walid-zd213?tab=repositories">
+    <img src="https://img.shields.io/badge/STARS-2-1F2937?style=for-the-badge&logo=github&logoColor=yellow" alt="Stars" />
+  </a>
+  <img src="https://img.shields.io/badge/LAST%20UPDATE-TODAY-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="Last Update" />
+</p>
+
+<!-- شارات مجالات التركيز التقنية -->
+<p>
+  <img src="https://img.shields.io/badge/TELEGRAM%20AUTOMATION-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Automation" />
+  <img src="https://img.shields.io/badge/AI%20AGENTS-8957E5?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-3FB950?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SELF--HOSTED-181717?style=flat-square&logo=docker&logoColor=white" alt="Self-Hosted" />
+</p>
+
 </div>
