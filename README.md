@@ -116,7 +116,7 @@ flowchart LR
 <div align="center">
 
 <!-- Tech Stack Section -->
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -138,7 +138,7 @@ flowchart LR
 </p>
 
 </div>
-<div align="center">
+<div align="center"> 
 
 <div align="center">
 
@@ -146,7 +146,7 @@ flowchart LR
 
 ---
 
-### 📊 Activity & Streak
+## 📊 Activity & Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-zd213&theme=dark&hide_border=true" alt="GitHub Streak" width="1005" />
 
