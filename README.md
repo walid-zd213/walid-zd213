@@ -109,6 +109,8 @@ flowchart LR
 ```
 ---
 
+---
+
 ## GitHub Stats & Top Languages
 
 <div align="center">

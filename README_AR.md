@@ -109,6 +109,8 @@ flowchart LR
 ```
 ---
 
+---
+
 ## إحصائيات GitHub واللغات الأكثر استخدامًا
 
 <div align="center">
