@@ -111,17 +111,17 @@ flowchart LR
 
 ---
 
-## إحصائيات GitHub واللغات الأكثر استخدامًا
+## ملف GitHub ومجالات التركيز
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true"
-    alt="إحصائيات وليد"
-    width="495"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true"
-    alt="اللغات الأكثر استخدامًا"
-    width="330"
-  />
+  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="متابعو GitHub" />
+  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Profile Stars" alt="نجوم مستودع الملف الشخصي" />
+  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&logo=git&logoColor=white&label=Last Update" alt="آخر تحديث" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Telegram%20Automation-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="أتمتة تيليجرام" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8957E5?style=for-the-badge&logo=openai&logoColor=white" alt="وكلاء الذكاء الاصطناعي" />
+  <img src="https://img.shields.io/badge/Open%20Source-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="المصادر المفتوحة" />
+  <img src="https://img.shields.io/badge/Self--Hosted-181717?style=for-the-badge&logo=docker&logoColor=white" alt="الأنظمة المستضافة ذاتيًا" />
 </div>

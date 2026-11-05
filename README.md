@@ -111,17 +111,17 @@ flowchart LR
 
 ---
 
-## GitHub Stats & Top Languages
+## GitHub Profile & Focus
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true"
-    alt="Walid Stats"
-    width="495"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true"
-    alt="Top Languages"
-    width="330"
-  />
+  <img src="https://img.shields.io/github/followers/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/walid-zd213/walid-zd213?style=for-the-badge&logo=github&logoColor=white&label=Profile Stars" alt="Profile Repository Stars" />
+  <img src="https://img.shields.io/github/last-commit/walid-zd213/walid-zd213?style=for-the-badge&logo=git&logoColor=white&label=Last Update" alt="Last Update" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Telegram%20Automation-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Automation" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8957E5?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Open%20Source-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Self--Hosted-181717?style=for-the-badge&logo=docker&logoColor=white" alt="Self-Hosted Systems" />
 </div>
