@@ -135,3 +135,43 @@ flowchart LR
 </p>
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- قسم التقنيات -->
+### 🧰 التقنيات المستخدمة
+
+<p>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TELEGRAM%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API" />
+  <img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/RAILWAY-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+  <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### 📊 إحصائيات GitHub والنشاط
+
+<!-- شارات Shields.io ثابتة بدون خدمات إحصائيات ديناميكية -->
+<p>
+  <img src="https://img.shields.io/badge/FOLLOWERS-1-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
+  <img src="https://img.shields.io/badge/STARS-2-1F2937?style=for-the-badge&logo=github&logoColor=yellow" alt="Stars" />
+  <img src="https://img.shields.io/badge/PROFILE-README-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Profile README" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="Active Development" />
+</p>
+
+</div>
