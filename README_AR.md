@@ -114,6 +114,14 @@ flowchart LR
 ## إحصائيات GitHub واللغات الأكثر استخدامًا
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true" alt="إحصائيات وليد" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true" alt="اللغات الأكثر استخدامًا" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true"
+    alt="إحصائيات وليد"
+    width="495"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true"
+    alt="اللغات الأكثر استخدامًا"
+    width="330"
+  />
 </div>

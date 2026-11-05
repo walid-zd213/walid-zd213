@@ -114,6 +114,14 @@ flowchart LR
 ## GitHub Stats & Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true" alt="Walid Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true"
+    alt="Walid Stats"
+    width="495"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true"
+    alt="Top Languages"
+    width="330"
+  />
 </div>
