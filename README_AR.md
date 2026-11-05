@@ -139,11 +139,9 @@ flowchart LR
 
 </div>
 <div align="center">
+<div align="center">
+
 ### 📊 إحصائيات النشاط
-
-[![Walid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=walid-zd213&show_icons=true&theme=dark&hide_border=true)](https://github.com/walid-zd213)
-
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=walid-zd213&layout=compact&theme=dark&hide_border=true)](https://github.com/walid-zd213)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-zd213&theme=dark&hide_border=true" alt="GitHub Streak" width="1005" />
 
