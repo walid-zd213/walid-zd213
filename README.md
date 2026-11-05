@@ -111,31 +111,6 @@ flowchart LR
 
 ---
 
-<div align="center">
-
-<!-- الشارات العلوية للإحصائيات -->
-<p>
-  <a href="https://github.com/walid-zd213">
-    <img src="https://img.shields.io/badge/FOLLOWERS-1-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  </a>
-  <a href="https://github.com/walid-zd213?tab=repositories">
-    <img src="https://img.shields.io/badge/STARS-2-1F2937?style=for-the-badge&logo=github&logoColor=yellow" alt="Stars" />
-  </a>
-  <img src="https://img.shields.io/badge/LAST%20UPDATE-TODAY-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="Last Update" />
-</p>
-
-<!-- شارات مجالات التركيز التقنية -->
-<p>
-  <img src="https://img.shields.io/badge/TELEGRAM%20AUTOMATION-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Automation" />
-  <img src="https://img.shields.io/badge/AI%20AGENTS-8957E5?style=flat-square&logo=openai&logoColor=white" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-3FB950?style=flat-square&logo=github&logoColor=white" alt="Open Source" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/SELF--HOSTED-181717?style=flat-square&logo=docker&logoColor=white" alt="Self-Hosted" />
-</p>
-
-</div>
-
 ---
 
 <div align="center">
@@ -160,18 +135,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/ORACLE%20CLOUD-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud" />
   <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-### 📊 GitHub Stats & Activity
-
-<!-- Static Shields.io badges: no dynamic stats services -->
-<p>
-  <img src="https://img.shields.io/badge/FOLLOWERS-1-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-  <img src="https://img.shields.io/badge/STARS-2-1F2937?style=for-the-badge&logo=github&logoColor=yellow" alt="Stars" />
-  <img src="https://img.shields.io/badge/PROFILE-README-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Profile README" />
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&logo=git&logoColor=white" alt="Active Development" />
 </p>
 
 </div>
