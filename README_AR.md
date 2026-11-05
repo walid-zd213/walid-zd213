@@ -137,10 +137,11 @@ flowchart LR
   <img src="https://img.shields.io/badge/GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-</div>
+</div> 
 <div align="center">
 <div align="center">
 
+</div>
 ### 📊 إحصائيات النشاط
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=walid-zd213&theme=dark&hide_border=true" alt="GitHub Streak" width="1005" />
